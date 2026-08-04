@@ -1,0 +1,10 @@
+**DATABASE**
+
+A database is an organised collection of data which is stored and accessed electronically.
+The data structured in way that allows easy retrival ,management and updating.
+Databases are essential for handling large amounts of imformation in a structured and efficient manner.
+
+**DBMS(DATABASE MANAGEMENT SYSTEM)**
+
+
+
