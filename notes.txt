@@ -1,3 +1,5 @@
+-------------------------SQL(Structured Query Language)-----------------------------
+
 **DATABASE**
 
 A database is an organised collection of data which is stored and accessed electronically.
@@ -6,5 +8,7 @@ Databases are essential for handling large amounts of imformation in a structure
 
 **DBMS(DATABASE MANAGEMENT SYSTEM)**
 
+A DBMS is software that allows user to define,create,maintain and control access to database.
+It acts as an intermediary between user and database, ensuring that the data is stored efficiently,retrived quickly and managed securly.
 
 
