@@ -11,4 +11,10 @@ Databases are essential for handling large amounts of imformation in a structure
 A DBMS is software that allows user to define,create,maintain and control access to database.
 It acts as an intermediary between user and database, ensuring that the data is stored efficiently,retrived quickly and managed securly.
 
+//Main Categories of SQL Commands
 
+# DDL (Data Definition Language)
+
+Purpose: Defines database structure.
+
+Examples: CREATE, ALTER, DROP, TRUNCATE.
