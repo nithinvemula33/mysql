@@ -16,9 +16,9 @@ It acts as an intermediary between user and database, ensuring that the data is 
 # DDL (Data Definition Language)
 
 Purpose: Defines database structure.
-Examples: CREATE, ALTER, DROP, TRUNCATE.
+Commands: CREATE, ALTER, DROP, TRUNCATE.
 
 # DML (Data Manipulation Language)
 
 Purpose: Modifies data.
-Examples: INSERT, UPDATE, DELETE.
+Commands: INSERT, UPDATE, DELETE.
