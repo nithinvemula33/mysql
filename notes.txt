@@ -27,3 +27,8 @@ Commands: INSERT, UPDATE, DELETE.
 
 Purpose: Used to retrieve data from a database.
 Commands: SELECT.
+
+# DCL (Data Control Language)
+
+Purpose: Used to control access and permissions in a database.
+Commands: GRANT,REVOKE.
