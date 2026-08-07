@@ -22,3 +22,8 @@ Commands: CREATE, ALTER, DROP, TRUNCATE.
 
 Purpose: Modifies data.
 Commands: INSERT, UPDATE, DELETE.
+
+# DQL (Data Query Language)
+
+Purpose: Used to retrieve data from a database.
+Commands: SELECT.
