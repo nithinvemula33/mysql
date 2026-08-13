@@ -19,6 +19,53 @@ Databases are essential for handling large amounts of imformation in a structure
 A DBMS is software that allows user to define,create,maintain and control access to database.
 It acts as an intermediary between user and database, ensuring that the data is stored efficiently,retrived quickly and managed securly.
 
+There are two categories:
+
+1. SQL / RDBMS
+
+SQL = Structured Query Language
+RDBMS = Relational Database Management System
+
+--> Data is stored in tables (rows and columns).
+--> Uses SQL queries to interact with data.
+--> Usually has a fixed/schema-based structure.
+
+Examples:
+--> MySQL
+--> PostgreSQL
+--> Oracle
+
+Example:
+
+Student
++----+-------+-----+
+| ID | Name  | Age |
++----+-------+-----+
+| 1  | Ravi  | 20  |
+| 2  | Arun  | 21  |
++----+-------+-----+
+
+2. NoSQL Databases
+
+NoSQL = Not Only SQL
+
+--> Data does not have to be stored in tables.
+--> Generally designed for flexible or changing data structures.
+--> Different NoSQL databases use different models, such as:
+    => Document → MongoDB
+    => Key-Value → Redis
+    => Wide-column → Cassandra
+    => Graph → Neo4j
+
+For example, MongoDB stores data in document-like structures:
+
+{
+  "id": 1,
+  "name": "Ravi",
+  "age": 20
+}
+
+
 //Main Categories of SQL Commands
 
 # DDL (Data Definition Language)
