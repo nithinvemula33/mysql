@@ -6,6 +6,14 @@ A database is an organised collection of data which is stored and accessed elect
 The data structured in way that allows easy retrival ,management and updating.
 Databases are essential for handling large amounts of imformation in a structured and efficient manner.
 
+// Why do we need database?
+
+--> Fast search.
+--> secure storage.
+--> Multiple users access.
+--> Data consistency.
+--> Backup & recovery.
+
 **DBMS(DATABASE MANAGEMENT SYSTEM)**
 
 A DBMS is software that allows user to define,create,maintain and control access to database.
