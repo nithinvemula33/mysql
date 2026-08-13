@@ -26,6 +26,9 @@ There are two categories:
 SQL = Structured Query Language
 RDBMS = Relational Database Management System
 
+SQL is a language used to create, access, modify, and manage data in relational databases (RDBMS).
+
+
 --> Data is stored in tables (rows and columns).
 --> Uses SQL queries to interact with data.
 --> Usually has a fixed/schema-based structure.
@@ -48,6 +51,8 @@ Student
 2. NoSQL Databases
 
 NoSQL = Not Only SQL
+
+It refers to databases that generally do not use the traditional relational table-based model of RDBMS.
 
 --> Data does not have to be stored in tables.
 --> Generally designed for flexible or changing data structures.
